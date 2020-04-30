@@ -115,7 +115,7 @@ GEM
       activerecord
       kaminari-core (= 1.0.0)
     kaminari-core (1.0.0)
-    logger (1.2.8)
+    logger (1.2.8.1)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
     mail (2.6.4)
